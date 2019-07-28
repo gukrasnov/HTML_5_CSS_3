@@ -1,0 +1,17 @@
+<style>
+svg .t_1{
+  transform: translate(20px, 40px);
+  fill: #f00;
+  font: 40px;
+}
+svg .t_2{
+  transform: translate(20px, 100px);
+  fill: #f00;
+  font: 40px;
+}
+</style>
+
+<svg>
+  <text class="t_1">@</text>
+  <text class="t_2">❱</text>
+</svg>
