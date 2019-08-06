@@ -17,10 +17,6 @@ div {
     justify-content: center;
     align-items: center;
 }
-.controls {
-    width: 100px;
-    height: 50px;
-}
 #switch_1:checked ~ .slider > .slide:nth-of-type(3) {
     display: none;
 }
